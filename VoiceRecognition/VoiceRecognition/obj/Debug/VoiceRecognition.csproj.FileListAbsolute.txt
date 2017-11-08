@@ -1,0 +1,11 @@
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe.config
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.exe
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\bin\Debug\VoiceRecognition.pdb
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Form1.resources
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.Properties.Resources.resources
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.GenerateResource.Cache
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.exe
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\obj\Debug\VoiceRecognition.pdb
+C:\Users\Sheroz Sharipov\source\repos\VoiceRecognition\VoiceRecognition\bin\Debug\NAudio.xml
